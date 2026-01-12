@@ -1,3 +1,6 @@
 print("hello im here for github practice - Remote")
-
+print("Sometimes I think about the dream of being a walmart greeter")
 print("hello im here for github practice - Local")
+print("Sometimes I realize I want to just play with electronics")
+print("Added during merge")
+print("Local end")
