@@ -1,8 +1,12 @@
-print("hello im here for github practice - Remote")
-print("Sometimes I think about the dream of being a walmart greeter")
+print("I like cookies")
 print("hello im here for github practice - Local")
+print("Sometimes i think about how dogs are better than cats")
+print("Sometimes I think about the dream of being a walmart greeter")
+print("hello im here for github practice - Remote")
 print("Sometimes I realize I want to just play with electronics")
+print("Sometimes I realize that students dont do anything I want them to")
 print("Added during merge")
+print("Remote end")
 print("Local end")
+print("Forgot message")
 
-#f
