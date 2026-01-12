@@ -1,1 +1,1 @@
-print("hi im a gangster and im here for github practice or smth type shit i robbed a bank")
+print("hello im here for github practice - Remote")
